@@ -74,4 +74,5 @@ class _GetMethodChannelDataState extends State<GetMethodChannelData> {
       ),
     );
   }
+
 }
